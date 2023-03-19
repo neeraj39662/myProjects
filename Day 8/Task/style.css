@@ -1,0 +1,164 @@
+*{
+    box-sizing:border-box;
+}
+.nav-barli{
+    float: right;
+    margin: 0;
+    width: 35%;
+}
+
+.flexi{
+    display: flex;
+    flex-direction: column;
+}
+    
+.barli{
+    display: inline;
+    padding-right: 4%;
+}
+.nav-head{
+    padding-left: 2%;
+    float: left;
+    margin:0;
+}
+nav{
+    height: 35px;
+    border-bottom: 1px solid lightgrey;
+}
+section{
+    width: 100%;
+}
+
+.blog-intro{
+    height: 1020px;
+}
+.blog-head{
+    font-size: 40px;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding-top: 2%;
+}
+pre{
+    line-height: 2;
+}
+
+.intro-img{
+    width: 100%;
+    object-fit: cover;
+}
+.mika-blog{
+    margin: auto;
+    padding-top: 6%;
+    width: 70%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.dp-img{
+    width: 8%;
+    float: left;
+}
+.mp-zero{
+    margin: 1%;
+    padding-left: 10%;
+}
+.statue-img{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.img-cap{
+    width: 40%;
+    margin: auto;
+    line-height: 2;
+}
+.ul-details{
+    line-height: 2;
+}
+.pad-top{
+    padding-top: 5%;
+}
+.social-links{
+    width: 6%;
+}
+.in{
+    display: inline-block;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 1%;
+    margin-bottom:1%;
+}
+.share{
+    padding:2% 15% 2% 15%;
+    border: 1px solid lightgrey;
+    border-radius: 4px ;
+}
+.dot{
+    border-color: grey;
+    border-style:dotted;
+    border-bottom: none;
+    border-width: 2px;
+    margin-bottom: 5%;
+}
+.desc{
+    padding-left: 15%;
+    margin-bottom: 15%;
+}
+.grid{
+    margin-bottom: 5%;
+}
+.imgGrid{
+    padding: 1%;
+    margin-left: 3%;
+    display: inline-block;
+    width: 30%;
+    font-family: 'New York Extra Large', sans-serif;
+}
+.signup{
+    border:1px solid;
+    padding: 3%;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    border-top: 8px solid;
+}
+.embtn{
+    background-color: black;
+    color: white;
+}
+.size{
+    height: 30px;
+}
+.foot{
+    background-color: black;
+    padding-top: 2%;
+    margin-top: 5%;
+}
+.foot-head{
+    color: white;
+    padding: 1.5%;
+}
+.foot-content{
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1[target="foo"]{
+    margin-top: 8%;
+}
+.flink{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 5%;
+}
+.link{
+    color: white;
+    padding: 1.5%;
+}
+.end{
+    color: white;
+    text-align: center;
+}

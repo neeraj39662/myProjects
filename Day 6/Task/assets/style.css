@@ -1,0 +1,387 @@
+.imglogo{
+    width: 5%;
+    position: absolute;
+}
+li{
+    display: inline;
+    position: relative;
+    left: 60%;
+    padding-right: 2%;
+}
+
+.btn-1{
+    border-radius: 5%;
+    border-color: orange;
+    color: orange;
+    height: 30px;
+    border-width: 1px;
+    background-color: white;
+}
+
+.imghouse{
+    position: absolute;
+    left: 62%;
+    height: 80%;
+}
+
+.imgh2{
+    position: absolute;
+    right: 0%;
+    height: 80%;
+}
+
+.top-h1{
+    display: inline;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    font-size: 65px;
+    color: grey;
+}
+
+.top-h3{
+    display: inline;
+    position: absolute;
+    left: 10%;
+    top: 38%;
+    color: grey;
+}
+
+#form_div{
+    background-color: rgb(249, 245, 245);
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 60%;
+    border-style: outset;
+    padding-left: 3%;
+    padding-bottom: 2%;
+}
+.imgdot1{
+    width: 6%;
+    position: absolute;
+    right: 0%;
+}
+
+.empty{
+    display: inline-block;
+    width: 49%;
+}
+
+.tf0{
+    width: 54%;
+    height: 30px;
+    background-color: lightgrey;
+    border: none;
+}
+.tf1{
+    width: 180px;
+    height: 30px;
+    background-color: lightgrey;
+    border: none;
+}
+
+.tf{
+    width: 60px;
+    height: 30px;
+    border-radius: 0%;
+    background-color: lightgrey;
+    border: none;
+    padding-left: 4%;
+}
+
+.mar{
+    margin: 5%;
+}
+
+.but2{
+    background-color: orange;
+    color: white;
+    width: 14%;
+    height: 35px;
+    margin-left: 10%;
+    border: none;
+}
+
+.imgdot2{
+    width: 13%;
+    position: absolute;
+    left: 2%;
+    top: 80%;
+    z-index: -1;
+}
+
+#locations{
+    position: absolute;
+    top: 100%;
+    margin-top: 13%;
+    padding-left: 10%;
+    width: 33%;
+}
+
+#locations_img{
+    position: absolute;
+    top: 85%;
+    margin-top: 13%;
+    margin-left:45% ; 
+    width: 54%;
+    padding-bottom: 10%;
+    height: 210px;
+}
+
+.small_icons{
+    width: 4%;
+    padding-left: 3%;
+}
+.imgprt21{
+    width: 25%;
+    position: relative;
+    left: 8%;
+    top: 30%;
+}
+
+.imgprt22{
+    width: 25%;
+    position: relative;
+    left: 12%;
+    top: 4%;  
+}
+
+.imgprt23{
+    width: 25%;
+    position: relative;
+    left: 15%;
+    top: 30%;
+}
+
+.imgprt24{
+    width:5.1%;
+    position: relative;
+    left: 18%;
+    top: 30%;
+}
+
+.imgDet{
+    position: relative;
+    left: 40%;
+    top:8%;
+    margin:0%;
+    width: 20%;
+}
+
+.services{
+    position:absolute;  
+    top: 180%;
+    height: 1000px;    
+}
+.services_container{
+    position: relative;
+    width: 80%;
+    margin-left: 10%;
+    background-color: lightgrey;
+    height: 300px;    
+}
+
+h1,h3,h2{
+    color: grey;
+}
+
+.sty_services_txt{
+    width:50%;
+    padding-left: 10%;
+}
+
+h1[target="eh1"]{
+    margin-top: 10%;
+    padding-top: 10%;
+}
+
+.section_dotimg{
+    position:absolute;
+    width: 10%;
+    right: 0%;
+}
+
+.services_house{
+    width: 30%;
+    position: absolute;
+    right: 5%;
+    top: 15%;
+}
+
+.services_dotimg2{
+    position: absolute;
+    width: 10%;
+    left: 5%;
+    top: 42%;
+
+}
+
+.services_container2{
+    border: none;
+    position: relative;
+    width: 80%;
+    margin: 10%;
+    background-color: lightgrey;
+    padding-bottom: 4%;
+}
+
+.sty_services_txt2{
+    width: 50%;
+    margin-left: 40%;
+    text-align: right;
+    padding-right: 10%;
+    
+}
+
+.services_dotimg3{
+    position: absolute;
+    bottom: 33%;
+    right: 5%;
+}
+
+h1[target=eh2]
+{
+    margin-top: 10%;
+    padding-top: 10%;
+}
+
+.services_office{
+    width: 30%;
+    position: absolute;
+    left: 5%;
+    bottom: 2%;
+}
+
+.Fproperties{
+    position: absolute;
+    
+    top: 350%;
+    width: 98%;
+}
+
+.houseimg{
+    width: 90%;
+    margin-left: 6%;
+    object-fit: contain;
+}
+
+.imgGrid{
+    margin-left: 2%;
+    display: inline-block;
+    width: 30%;
+    height: 400px;
+}
+.tab_mar{
+    padding-left: 7%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.price{
+   color: orange; 
+   font-size: 25px;
+   padding-left: 6%;
+   margin-top: 3%;
+   margin-bottom: 3%;
+}
+
+.Property_btn{
+    background-color: orange;
+    color: white;
+    width: 14%;
+    height: 35px;
+    border: none;
+}
+
+.about{
+    position: absolute;
+    top: 505%;
+    width: 98%;
+    height: 400px;
+
+}
+
+.imgcomma{
+    position: absolute;
+    top: 3070px;
+    width: 10%;
+    left: 7%;
+}
+
+.imgWoman{
+    position: absolute;
+    top: 3150px;
+    width: 30%;
+    left:10%;
+}
+
+.woman_dottedimg{
+    position: absolute;
+    top: 3300px;
+    width: 10%;
+    left:35%
+}
+
+.Woman_det{
+    width: 50%;
+    position: relative;
+    left: 45%;
+}
+
+.Woman_det[target="head"]{
+    margin-top: 10%;
+}
+
+.connect_h2{
+    color: white;
+    padding-left: 8%;
+    width: 60%;
+}
+
+h2[target="mar"]{
+    padding-top: 3%;    
+}
+.connect{
+    background-color: orange;
+    position: absolute;
+    top: 585%;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.but_connect{
+    position: absolute;
+    width: 14%;
+    top: 37%;
+    height: 30px;
+    left: 75%;
+}
+
+.foot{
+    position: absolute;
+    top: 640%;
+}
+
+.rentLogo{
+    width: 18%;
+}
+.imgFoot{
+    width: 100%;
+}
+
+.logo{
+    width: 6%;
+}
+
+.table_footer{
+    width: 100%;
+    padding-left: 10%;
+}
+
+.tFooterPad{
+    padding-left: 3%;
+}
+.trow_padd{
+    padding-right: 5%;
+}
